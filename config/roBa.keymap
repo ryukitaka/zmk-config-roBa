@@ -123,10 +123,10 @@
 
         MOUSE {
             bindings = <
-&to_layer_0 Q  &to_layer_0 L  &to_layer_0 U  &to_layer_0 COMMA  &to_layer_0 PERIOD                                               &to_layer_0 F  &to_layer_0 W  &to_layer_0 R  &to_layer_0 Y  &to_layer_0 P
-&to_layer_0 E  &to_layer_0 I  &to_layer_0 A  &to_layer_0 O      &to_layer_0 MINUS      &to_layer_0 COMMA      &to_layer_0 LEFT   &to_layer_0 K  &mkp MB1       &mkp MB3       &mkp MB2       &to_layer_0 RIGHT
-&to_layer_0 Z  &to_layer_0 X  &to_layer_0 C  &to_layer_0 V      &to_layer_0 SEMICOLON  &to_layer_0 COLON      &to_layer_0 SLASH  &to_layer_0 G  &to_layer_0 D  &to_layer_0 M  &to_layer_0 J  &to_layer_0 B
-&trans         &kp LEFT_WIN   &kp LEFT_ALT   &trans             &trans                 &trans                 &trans             &trans                                                      &trans
+&to_layer_0 Q  &to_layer_0 L  &to_layer_0 U  &to_layer_0 COMMA  &to_layer_0 PERIOD                                               &to_layer_0 F           &to_layer_0 W  &to_layer_0 UP_ARROW    &to_layer_0 Y  &to_layer_0 P
+&to_layer_0 E  &to_layer_0 I  &to_layer_0 A  &to_layer_0 O      &to_layer_0 MINUS      &to_layer_0 COMMA      &to_layer_0 MINUS  &to_layer_0 LEFT_ARROW  &mkp MB1       &mkp MB3                &mkp MB2       &to_layer_0 RIGHT
+&to_layer_0 Z  &to_layer_0 X  &to_layer_0 C  &to_layer_0 V      &to_layer_0 SEMICOLON  &to_layer_0 COLON      &to_layer_0 SLASH  &to_layer_0 G           &to_layer_0 D  &to_layer_0 DOWN_ARROW  &to_layer_0 J  &to_layer_0 B
+&trans         &kp LEFT_WIN   &kp LEFT_ALT   &trans             &trans                 &trans                 &trans             &trans                                                                        &trans
             >;
         };
 
