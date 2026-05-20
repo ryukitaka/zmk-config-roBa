@@ -11,8 +11,7 @@
 &trackball {
     automouse-layer = <4>;
     scroll-layers = <5>;
-    scroll-sensitivity = <2>;
-    scroll-interval = <10>;
+    scroll-interval = <13>;
     scroll_tick_ms = <10>;
 
     // arrows {
